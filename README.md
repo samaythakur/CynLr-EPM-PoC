@@ -64,35 +64,11 @@ Why do you call it a PoC?
 Because the assignment was focused on demonstrating how the proposed robotics objective could be planned and validated as a proof-of-concept program. My contribution was the Engineering Program Management layer—how the work would be organized, coordinated, measured and delivered.
 
 Actual robotics PoC-  
-Robot
-  ↓
-Camera
-  ↓
-Object Tracking
-  ↓
-Robot Motion
-  ↓
-Gripper
-  ↓
-Moving Object Grasp
-  ↓
-Testing
+
+Robot - Camera - Object Tracking - Robot Motion - Gripper - Moving Object Grasp - Testing
 
 My EPM PoC-
-Technical Objective
-        ↓
-Program Structure
-        ↓
-Tasks + Subtasks
-        ↓
-Dependencies
-        ↓
-Resources + Skill Hours
-        ↓
-Risks + External Dependencies
-        ↓
-KPIs + Lead/Lag Indicators
-        ↓
-Testing + Reviews
-        ↓
+
+Technical Objective - Program Structure - Tasks + Subtasks - Dependencies - Resources + Skill Hours - Risks + External Dependencies - KPIs + Lead/Lag Indicators - Testing + Reviews
+
 Final Delivery
