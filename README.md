@@ -69,6 +69,4 @@ Robot - Camera - Object Tracking - Robot Motion - Gripper - Moving Object Grasp 
 
 My EPM PoC-
 
-Technical Objective - Program Structure - Tasks + Subtasks - Dependencies - Resources + Skill Hours - Risks + External Dependencies - KPIs + Lead/Lag Indicators - Testing + Reviews
-
-Final Delivery
+Technical Objective - Program Structure - Tasks + Subtasks - Dependencies - Resources + Skill Hours - Risks + External Dependencies - KPIs + Lead/Lag Indicators - Testing + Reviews - Final Delivery
